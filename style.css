@@ -1,1 +1,35 @@
-/*style.css?
+/*style.css*/
+.sidebar{
+	height: 3%;
+	background-color: #bcf7ed;
+	padding: 2%;
+	display: flex;
+	justify-content: space-between;
+}
+ a{
+ 	font-family: 'Lato'; 
+ 	font-weight: bold;
+ 	font-size: 16pt;
+ 	text-decoration: none;
+ 	margin-left: 5%;
+ }
+ ul{
+ 	display: flex;
+ 	justify-content: space-between;
+ 	list-style: none;
+ 	padding: 4%;
+
+ }
+ li{
+ 	margin-right: 5%;
+ }
+
+ .maincontainer{
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+ }
+
+ .maincontainer img{
+ 	margin-right: 10%;
+ }
